@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ejercicio9 {
+public class Ejercicio9 {
     public static void main(String[] args){
         /*Desarrolla un programa en Java que solicite al usuario ingresar dos números enteros
         positivos y luego calcule y muestre su máximo común divisor (MCD).*/

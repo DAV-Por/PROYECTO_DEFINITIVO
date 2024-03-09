@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.Scanner;
 
-public class ejercicio11 {
+public class Ejercicio11 {
     /*Escribir un programa que calcule la suma de todos los elementos en un vector de enteros.*/
     public static void main(String[] args) {
 

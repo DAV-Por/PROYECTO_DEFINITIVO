@@ -1,8 +1,5 @@
 import java.util.Scanner;
-
-
-
-public class ejercicio13 {
+public class Ejercicio13 {
     /* Escribir un programa que encuentre el elemento máximo en un vector de enteros. es
     decir el número más grande*/
     public static void main(String[] args) {

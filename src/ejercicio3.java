@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ejercicio3 {
+public class Ejercicio3 {
     public static void main(String[] args) {
         /*Escribe un programa en Java que permita al usuario convertir una cantidad de dinero
         de una moneda a otra. El programa debe pedir al usuario ingresar la cantidad de dinero
